@@ -2,7 +2,7 @@
 * Homework. Java 1. Lesson 2.
 *
 *@author Ilya Kukushkin
-*@version 
+*@version 19 August 2018
 */
 
 import java.util.Scanner;
