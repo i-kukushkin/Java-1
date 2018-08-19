@@ -1,5 +1,5 @@
 /**
-* Homework. Java 1. Lesson 2.
+* Homework. Java 1. Lesson 3.
 *
 *@author Ilya Kukushkin
 *@version 19 August 2018
