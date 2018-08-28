@@ -1,3 +1,10 @@
+/**
+* Homework. Java 1. Lesson 6.
+*
+*@author Ilya Kukushkin
+*@version 28 Aug 2018
+*/
+
 class J1HwLesson6 {
     public static void main(String[] args) {
         IAnimal[] animals = {new Cat(100, 400, 1), new Dog(100, 5, 0.5)};
