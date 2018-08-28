@@ -33,7 +33,6 @@ abstract class Animal implements IAnimal {
 }
 
 class Cat extends Animal {
-
     Cat(int limitForRun, int limitForSwim, double heightForJump) {
         super(limitForRun, limitForSwim, heightForJump);
     }
@@ -52,7 +51,6 @@ class Cat extends Animal {
 }
 
 class Dog extends Animal {
-
     Dog(int limitForRun, int limitForSwim, double heightForJump) {
         super(limitForRun, limitForSwim, heightForJump);
     }
